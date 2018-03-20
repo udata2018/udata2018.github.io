@@ -40,8 +40,8 @@ email: your-email@example.com
 avatar: assets/images/avatar.jpg
 
 # You'll want to customize url and baseurl for your own site:
-baseurl: ""
-url: "https://udata2018.github.io/"
+baseurl: "https://udata2018.github.io/"
+url: ""
 
 # Social settings
 facebook_url:
